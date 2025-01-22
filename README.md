@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is a project
+BookBot is my first project in a new workspace 
